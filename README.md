@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 🚀
 
-<!--
-**TaqsBlaze/TaqsBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highly motivated developer I enjoy working on python 🥇 mostly
+I also have taken an interest in c# developing 🥇
+I'm a desktop app developoer first 🥇a web app developer second 🥈
+Also looking into android developing 🤖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a estate project
+- 🌱 I’m currently learning Angular and spring
+- 👯 I’m looking to collaborate on desktop and web applications
+
+- ### 📫 How to reach me:
+- 🔗 Twitter: https://twitter.com/taqs_blaze
+- ✉️ Gmail: tanakah30@gmail.com
+- 🔗 Dev: https://dev.to/taqsblaze
