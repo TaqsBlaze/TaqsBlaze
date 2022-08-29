@@ -8,7 +8,7 @@ Also looking into android developing 🤖
 
 - 🔭 I’m currently working on a estate project
 - 🌱 I’m currently learning Angular and spring
-- 👯 I’m looking to collaborate on desktop and web applications
+- 👯 I’m looking to collaborate on desktop and web applications and or a full time job as a developer or Tech Support 
 
 - ### 📫 How to reach me:
 - 🔗 Twitter: https://twitter.com/taqs_blaze
