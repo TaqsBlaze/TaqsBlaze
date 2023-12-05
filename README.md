@@ -2,8 +2,8 @@
 
 I'm a highly motivated developer I enjoy working on python 🥇 mostly
 I also have taken an interest in c# developing 🥇
-I'm a desktop app developoer first 🥇a web app developer second 🥈
-Also looking into android developing 🤖
+I'm a desktop app developer first 🥇a web app developer second 🥈
+A mobile developing 3rd 🤖
 
 
 - 🔭 I’m currently working on a estate project
