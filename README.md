@@ -1,3 +1,8 @@
+<div id="header" align="center">
+<img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u/giphy.gif" width=100%>
+</div>
+
+
 ### Hi there 👋 🚀
 
 I'm a highly motivated developer I enjoy working on python 🥇 mostly
