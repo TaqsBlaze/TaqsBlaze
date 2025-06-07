@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TaqsBlaze/TaqsBlaze/refs/heads/main/doc/software.png" title="web programming icons" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/TaqsBlaze/TaqsBlaze/refs/heads/main/docs/software.png" title="web programming icons" width="80" height="80">
 </div>
 
 ## 🚀 About Me
